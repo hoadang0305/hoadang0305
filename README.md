@@ -25,7 +25,7 @@
 
 
 [1]: https://www.facebook.com/nhathoa.1810
-[2]: https://www.linkedin.com/in/h%C3%B2a-%C4%91%E1%BA%B7ng-a97513294/
+[2]: https://www.linkedin.com/in/nhathoa1810/
 <!---
 hoadang0305/hoadang0305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
