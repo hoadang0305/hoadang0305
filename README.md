@@ -2,7 +2,7 @@
 
 👀 I’m interested in football
 
-🌱 I'm currently a 3rd-year Software Engineering student at VNUHCM - University of Science.
+🌱 I'm currently a 4rd-year Software Engineering student at VNUHCM - University of Science.
 
 📫 How to reach me : dangnhathoa22@gmail.com
 
